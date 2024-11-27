@@ -21,8 +21,8 @@ function ST(TG, TXT) {
 
 function SIT() {
 
-    ST("h1", "Texto kkk")
-    ST("p", `Escolha um texto... de 1 a ${MN}`)
+    ST("h1", "Texto kkk");
+    ST("p", `Escolha um texto... de 1 a ${MN}`);
 
 }
 
